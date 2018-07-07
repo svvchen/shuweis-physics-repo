@@ -1,3 +1,3 @@
 # zhui
 
-Some projects.
+Some physics projects.
