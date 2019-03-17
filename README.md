@@ -1,3 +1,1 @@
-# zhui
-
 Some physics projects :)
